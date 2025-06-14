@@ -26,7 +26,7 @@ This project analyzes Malaysia's weekly fuel prices using official data from [da
   - Insights on policy impacts
 
 
-## Visualizations
+## Visualisation
 
 - Weekly and monthly trend plots
 - 4-week rolling average charts
