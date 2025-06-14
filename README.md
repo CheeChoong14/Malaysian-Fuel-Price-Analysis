@@ -9,7 +9,6 @@ This project analyzes Malaysia's weekly fuel prices using official data from [da
   - `ron95`, `ron97`, `diesel`, `diesel_eastmsia`: Price per litre (RM)
   - `series_type`: Level or change
 
----
 
 ## Project Structure
 
@@ -26,18 +25,16 @@ This project analyzes Malaysia's weekly fuel prices using official data from [da
   - Time-series trend analysis
   - Insights on policy impacts
 
----
 
-## 📈 Visualizations
+## Visualizations
 
 - Weekly and monthly trend plots
 - 4-week rolling average charts
 - Difference plots highlighting price volatility
 - Annotated spikes for policy impact awareness
 
----
 
-## 💡 How to Run
+## How to Run
 
 1. Clone this repo  
    `git clone https://github.com/yourusername/fuel-price-analysis.git`
